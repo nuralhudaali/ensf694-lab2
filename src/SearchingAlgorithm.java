@@ -1,3 +1,7 @@
+/**
+ * @author Nur-Alhuda Ali
+ */
+
 import java.util.Scanner;
 import java.util.Arrays;
 
